@@ -1,7 +1,3 @@
-Author : Hemant Kr Tiwari
-Email : t.hemantkumar@gmail.com
-Contact : +91-9818664766
-Blog : http://hemant-uniquescience.blogspot.in/
 
 Licence : GNU General Public License
 
